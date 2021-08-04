@@ -11,6 +11,6 @@ The IBM dataset was utilized for this project. It is publicly available on Kaggl
 ### Methodology 
 
 *a)* Preprocessing and EDA were conducted using R software  
-*b)* Survival methods were built in python
+*b)* Survival models were built in python and their scores compared 
 
 
