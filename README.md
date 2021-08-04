@@ -1,9 +1,9 @@
 # Employee-Churn
 
-# Introduction
+## Introduction
 This project explores novel survival analysis methods to predict employee churn over time
 
-# The dataset 
+## The dataset 
 The IBM dataset was utilized for this project. It is publicly available on Kaggle at: https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 
